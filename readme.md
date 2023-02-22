@@ -11,6 +11,8 @@
 
 > Para uma leitura mais completa com uma introdução a linguagem Dart [acessar aqui](https://www.paulocagol.dev.br/2021/04/00004-introducao-linguagem-dart/).
 
+> [Artigo da Alura que explica sobre o Null Safety](https://www.alura.com.br/artigos/flutter-null-safety)
+
 - Estruturas de controle
   - [Estruturas condicionais no Dart](#estruturas-de-condição-no-dart)
   - [Estruturas de repetição no Dart](#estruturas-de-repetição-no-dart)
