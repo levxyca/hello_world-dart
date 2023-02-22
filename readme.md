@@ -9,7 +9,7 @@
 - Boa performance.
 - Framework que facilita o uso da linguagem, como o Flutter.
 
-> Para uma leitura mais completa com uma introdução a linguagem Dart [acessar aqui](https://www.paulocagol.dev.br/2021/04/00004-introducao-linguagem-dart/#6-operadores-relacionais).
+> Para uma leitura mais completa com uma introdução a linguagem Dart [acessar aqui](https://www.paulocagol.dev.br/2021/04/00004-introducao-linguagem-dart/.
 
 - Estruturas de controle
   - [Estruturas condicionais no Dart](#estruturas-de-condição-no-dart)
